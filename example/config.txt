@@ -1,0 +1,2 @@
+Prefix plugins/Hyperparameter/example
+Plugin Hyperparameter inputfile input.csv outputfile none
